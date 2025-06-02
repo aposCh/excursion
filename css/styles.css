@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+#header {
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    text-align: center;
+    font-size: 16px;
+}
